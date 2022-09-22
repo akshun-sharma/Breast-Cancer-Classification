@@ -1,5 +1,5 @@
 # Breast-Cancer-Classification
-Breast Cancer Classification using Covolutional Neural Networks and Transfer Learning
+Breast Cancer Classification using Convolutional Neural Networks and Transfer Learning
 ## Data
 
 The dataset I have used can be downloaded from [here](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/).
