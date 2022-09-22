@@ -20,3 +20,8 @@ The dataset I have used can be downloaded from [here](https://web.inf.ufpr.br/vr
 2. https://arxiv.org/pdf/1811.04241
 
 3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6440620/
+
+
+## Results
+
+The model is able to reach a validation accuracy of 98.3%, precision 0.65, recall 0.95, f1 score of 0.77 and ROC-AUC as 0.692.
